@@ -30,7 +30,7 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 -_Abrir carpeta clonada en el editor donde encontraremos los siguientes documentos:_<br>
 
 - **Archivo _index.html_** <br>
-- **Carpeta CSS - archivo syles.css__** <br>
+- **Carpeta CSS - _archivo syles.css_** <br>
 
 - **Carpeta JS - archivo _joke.js_:** <br>
 _API joke: [icanhazdadjoke](https://icanhazdadjoke.com/)_<br>
