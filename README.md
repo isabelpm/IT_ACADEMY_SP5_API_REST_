@@ -10,8 +10,8 @@ _A continuación tienes una **demo y visualización del código en codeandbox** 
 
 
 
-## [codesandbox]() ⌨️
-## [Web]() 💻
+## [codesandbox](https://codesandbox.io/s/itacademyapirest-2bd09?file=/index.html) ⌨️
+## [Web](https://2bd09.csb.app/) 💻
 
 ### Pre-requisitos 🔧
 
