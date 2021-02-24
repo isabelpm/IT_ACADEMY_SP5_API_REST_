@@ -10,8 +10,8 @@ _A continuación tienes una **demo y visualización del código en codeandbox** 
 
 
 
-## [codesandbox]() ⌨️
-## [Web]() 💻
+## [codesandbox](https://github.com/isabelpm/IT_ACADEMY_SP5_API_REST_/tree/dev) ⌨️
+## [Web](https://2bd09.csb.app/) 💻
 
 ### Pre-requisitos 🔧
 
