@@ -59,7 +59,6 @@ document.getElementById("weather2").appendChild(tLocation);
 
 })();
 
-
 // ***************************** TARRAGONA *******************************
 
 /* URL API */
