@@ -9,9 +9,10 @@ _A continuación tienes una **demo y visualización del código en codeandbox** 
 ![demo_api_rest](https://user-images.githubusercontent.com/67895734/109016342-62e17400-76b6-11eb-977c-ed469984ab65.png)
 
 
-
 ## [codesandbox](https://codesandbox.io/s/itacademyapirest-2bd09?file=/index.html) ⌨️
+
 ## [Web](https://2bd09.csb.app/) 💻
+
 
 ### Pre-requisitos 🔧
 
